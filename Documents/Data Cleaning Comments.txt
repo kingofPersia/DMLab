@@ -1,0 +1,4 @@
+column:       
+Extra by-  if no by replace it with zero
+Extras - if no extra put it to No_extras
+Wicket_players, wicket_player_out,wicket_kind -- if no wickets replace it with No_wicket

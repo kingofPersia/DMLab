@@ -1,0 +1,6 @@
+1- Parsing of Players Profile from Cricinfo
+ - limited no of countries details
+ - national players profile
+ - batsman comparision against bowlers
+ - batsman performance against type of bowler
+ - 
